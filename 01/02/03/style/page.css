@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+}
+div{
+  padding: 26px;
+}
+.container{
+  width: 916px;
+  height: 5820px;
+}
+.right-content{
+  text-align: right;
+}
+.center-content{
+  text-align: center;
+}
+.mait-title{
+    color: rgb(0, 0, 0);
+      font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+       text-align: center;
+}
+h1,h3{
+  text-align: center;}
+h2{
+  margin-bottom: 9px;
+}
+h1{
+  margin-bottom: 55px;}
+  #venus{
+    margin-top: 62px;
+  }
+  #earth{
+    margin-top: 46px;
+  }
+  #mars{
+    margin-top: 31px;
+  }
+  #jupiter{
+    margin-top: 9px;
+  }
+  #saturn{
+    margin-top: 48;
+  }
+  #uranus{
+    margin-top: 48px;
+  }
+  #neptune{
+    margin-top: 54px;
+  }
+  /* З однаковими відступами можна булоб зробити class  */
+  /* Таблицю зробити не встигаю, але спробую коли наздожену */
